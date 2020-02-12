@@ -30,7 +30,7 @@ The object-oriented design is straightforward.
  - `main()`: wrapper code for console script
 
 ## Testing
-Nose unit tests are defined in [tests/\_\_init\_\_.py](tests/__init__.py)
+Nose unit tests are defined in [test/\_\_init\_\_.py](test/__init__.py)
 	 - `test_sample()`: unit test Sample functionality
 	 - `test_sample_buffer()`: unit test SampleBuffer functionality
 
